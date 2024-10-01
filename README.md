@@ -10,8 +10,9 @@ An R package for analyzing multilayer networks: [BiMultiNetPlot](https://doi.org
 
 An R package for analyzing multilayer networks: [EMLN](https://doi.org/10.1111/2041-210X.14225)
 
+An R package for analyzing multilayer networks: [multinet](https://doi.org/10.18637/jss.v098.i08)
+
 An R package for analyzing multilayer networks: [MuxViz](https://manlius.github.io/muxViz/)
 
 An R package for analyzing multilayer networks: [rMultiNet](https://doi.org/10.48550/arXiv.2302.04437)
 
-An R package for analyzing multilayer networks: [multinet](https://doi.org/10.18637/jss.v098.i08)

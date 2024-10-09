@@ -4,7 +4,7 @@ Compilation of resources to study multilayer networks, with a focus on ecology a
 
 [Ecological Synthesis Lab](https://marcomellolab.wordpress.com) (SintECO), University of São Paulo, Brazil.
 
-Authors: Marco A. R. Mello, Renata l. Muylaert & Cristina A. Kita.
+Authors: Marco A. R. Mello, Renata L. Muylaert & Cristina A. Kita.
 
 Contact: [marmello\@usp.br](mailto:marmello@usp.br).
 

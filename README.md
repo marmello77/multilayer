@@ -12,7 +12,7 @@ First published on September 25th, 2024 (English version).
 
 1. How to draw multilayer networks using a combination of R packages: [multilayer-networks](https://github.com/marmello77/multilayer-networks)
 2. A new centrality index designed for multilayer networks: [GNorm](https://doi.org/10.1111/2041-210X.14257)
-3. Community Structure in Time-Dependent, Multiscale, and Multiplex Networks: [Louvain(https://doi.org/10.1126/science.1184819)]
+3. Community Structure in Time-Dependent, Multiscale, and Multiplex Networks: [Louvain](https://doi.org/10.1126/science.1184819)
 4. An R package for analyzing multilayer networks: [BiMultiNetPlot](https://doi.org/10.1101/2024.09.20.613870) 
 5. An R package for analyzing multilayer networks: [EMLN](https://doi.org/10.1111/2041-210X.14225)
 6. An R package for analyzing multilayer networks: [multinet](https://doi.org/10.18637/jss.v098.i08)
